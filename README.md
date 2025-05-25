@@ -1,4 +1,7 @@
-<h1 align="center">💪 AI Fitness Assistant 🤖</h1>
+
+
+<h1 align="center">💪 AI Fitness Assistant 🤖</h1><p align="center"> <a href="https://fitness-ai-five.vercel.app/" target="_blank"><strong>🌐 Live Website</strong></a> </p>
+
 
 
 ## Highlights:
